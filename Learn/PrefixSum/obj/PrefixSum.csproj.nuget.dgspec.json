@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj": {}
+    "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj": {}
   },
   "projects": {
-    "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj": {
+    "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj",
+        "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj",
         "projectName": "PrefixSum",
-        "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj",
+        "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj",
         "packagesPath": "/Users/adarshadhital/.nuget/packages/",
-        "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/obj/",
+        "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adarshadhital/.nuget/NuGet/NuGet.Config"

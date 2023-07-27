@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj",
+      "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj",
       "projectName": "PrefixSum",
-      "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/PrefixSum.csproj",
+      "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/PrefixSum.csproj",
       "packagesPath": "/Users/adarshadhital/.nuget/packages/",
-      "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/PrefixSum/obj/",
+      "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/PrefixSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adarshadhital/.nuget/NuGet/NuGet.Config"

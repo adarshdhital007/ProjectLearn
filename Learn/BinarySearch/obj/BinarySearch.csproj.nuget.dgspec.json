@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/BinarySearch/BinarySearch.csproj": {}
+    "/Users/adarshadhital/Documents/ProjectLearn/Learn/BinarySearch/BinarySearch.csproj": {}
   },
   "projects": {
-    "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/BinarySearch/BinarySearch.csproj": {
+    "/Users/adarshadhital/Documents/ProjectLearn/Learn/BinarySearch/BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/BinarySearch/BinarySearch.csproj",
+        "projectUniqueName": "/Users/adarshadhital/Documents/ProjectLearn/Learn/BinarySearch/BinarySearch.csproj",
         "projectName": "BinarySearch",
-        "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/BinarySearch/BinarySearch.csproj",
+        "projectPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/BinarySearch/BinarySearch.csproj",
         "packagesPath": "/Users/adarshadhital/.nuget/packages/",
-        "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/PrefixSum/BinarySearch/obj/",
+        "outputPath": "/Users/adarshadhital/Documents/ProjectLearn/Learn/BinarySearch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adarshadhital/.nuget/NuGet/NuGet.Config"
