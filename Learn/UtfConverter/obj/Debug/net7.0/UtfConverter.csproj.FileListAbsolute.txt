@@ -1,0 +1,15 @@
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/bin/Debug/net7.0/UtfConverter
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/bin/Debug/net7.0/UtfConverter.deps.json
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/bin/Debug/net7.0/UtfConverter.runtimeconfig.json
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/bin/Debug/net7.0/UtfConverter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/bin/Debug/net7.0/UtfConverter.pdb
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.csproj.AssemblyReference.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.AssemblyInfoInputs.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.AssemblyInfo.cs
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.csproj.CoreCompileInputs.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/refint/UtfConverter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.pdb
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/UtfConverter.genruntimeconfig.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/UtfConverter/obj/Debug/net7.0/ref/UtfConverter.dll

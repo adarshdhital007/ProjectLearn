@@ -1,0 +1,15 @@
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/bin/Debug/net7.0/DataRecordWriter
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/bin/Debug/net7.0/DataRecordWriter.deps.json
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/bin/Debug/net7.0/DataRecordWriter.runtimeconfig.json
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/bin/Debug/net7.0/DataRecordWriter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/bin/Debug/net7.0/DataRecordWriter.pdb
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.csproj.AssemblyReference.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.AssemblyInfoInputs.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.AssemblyInfo.cs
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.csproj.CoreCompileInputs.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/refint/DataRecordWriter.dll
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.pdb
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/DataRecordWriter.genruntimeconfig.cache
+/Users/adarshadhital/Documents/ProjectLearn/Learn/DataRecordWriter/obj/Debug/net7.0/ref/DataRecordWriter.dll
