@@ -1,6 +1,4 @@
-﻿<Properties StartupConfiguration="{05EEAE16-EA89-4465-AC54-C0D905CFD626}|Default">
-  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{72180D66-BD51-44EC-AD22-124B4F8644E9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PrefixSum/Program.cs">
     <Files>
       <File FileName="PrefixSum/Program.cs" Line="25" Column="1" />
@@ -16,10 +14,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PrefixSum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.UtfConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
